@@ -1,4 +1,4 @@
-import Navbar from "./Navbar 01/Navbar";
+import Navbar from "./components/navbar-01/Navbar";
 
 function App() {
   return <Navbar />;

@@ -1,0 +1,9 @@
+/* Copy these styles into the index.css file if you are using navbar-01 component */
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700&display=swap");
+
+@layer base {
+  body {
+    @apply bg-[#1b1b1d] h-[300vh];
+  }
+}
