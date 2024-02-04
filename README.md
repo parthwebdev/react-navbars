@@ -3,7 +3,7 @@
 ### Getting started is a simple as cloning the repository
 
 ```
-git clone git@github.com:RicardoValdovinos/vite-react-boilerplate.git
+git clone https://github.com/parthwebdev/react-navbars.git
 ```
 
 ### Installing dependencies
