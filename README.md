@@ -1,6 +1,6 @@
 ## Getting Started
 
-### Getting started is aa simple as cloning the repository
+### Getting started is as simple as cloning the repository
 
 ```
 git clone https://github.com/parthwebdev/react-navbars.git
@@ -20,4 +20,4 @@ npm start
 
 ### Project Structure
 
-The navbar components are located inside the src/components directory. Each navbar has its own folder (e.g. navbar-01, navbar-02) containing the React component file and a `styles.css`. Import the component into the `App.tsx` and copy the styles from the corresponding `styles.css` into `./src/index.css`
+The navbar components are located inside the `src/components` directory. Each navbar has its own folder (e.g. navbar-01, navbar-02) containing the React component file and an `index.css`. Import the component into the `App.tsx` and import the corresponding `index.css` into `main.tsx` to apply the styles.
