@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --clr-bg: #0e0e10;
+  --clr-text: #efeff1;
+  --clr-text-light: #adadb8;
+  --clr-bg-light: #35353b;
+  --clr-primary: #a970ff;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Inter";
+  background-color: var(--clr-bg);
+  color: var(--clr-text);
+}
