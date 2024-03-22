@@ -2,7 +2,7 @@ import searchIcon from "./assets/search.svg";
 
 const SearchBar = () => {
   return (
-    <div className="flex flex-1 max-w-[400px]">
+    <div className="flex flex-1 max-w-[400px] max-md:hidden">
       <input
         type="text"
         className="
